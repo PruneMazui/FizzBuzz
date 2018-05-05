@@ -15,3 +15,4 @@ Repository for self-training in programming language.
 
 I plan to describe what I did.
 
+* [Nim](Nim/Readme.md)
