@@ -16,3 +16,16 @@ Repository for self-training in programming language.
 I plan to describe what I did.
 
 * [Nim](Nim/Readme.md)
+
+Todo.
+I do it when I want to do it.
+
+* Scheme
+* Haskell
+* Elixir
+* Scala
+* OCaml
+* Rust
+* FSharp
+* D
+* (Elm)
